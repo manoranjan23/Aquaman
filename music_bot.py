@@ -3,10 +3,10 @@ import asyncio
 from pyrogram import Client, filters
 from pytube import YouTube
 
-API_ID = 'YOUR_API_ID'  # Apna API ID yahan daalein
-API_HASH = 'YOUR_API_HASH'  # Apna API Hash yahan daalein
-BOT_TOKEN = 'YOUR_BOT_TOKEN'  # Apna Bot Token yahan daalein
-ASSISTANT_ID = 'YOUR_ASSISTANT_ID'  # Apna Assistant ID yahan daalein
+API_ID = '27884171'  # Apna API ID yahan daalein
+API_HASH = 'abe760b5d6b33e15c676577d6ae4a06a'  # Apna API Hash yahan daalein
+BOT_TOKEN = '7313059877:AAGiCX8wPk-F6G00xoDeoNR-dQZ4HIRS1I0'  # Apna Bot Token yahan daalein
+ASSISTANT_ID = '6851334207'  # Apna Assistant ID yahan daalein
 
 app = Client("music_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
